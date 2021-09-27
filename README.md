@@ -15,4 +15,4 @@ The Arduino sketch afterburner.ino is uploaded to and running on an Arduino UNO 
 the programmer.
 
 When building the programmer hardware, the most tricky part was to break out pin 4 (EN) of the MT3608 IC and attach a wire
-to that pin in order to control it from the Arduino.
+to that pin in order to control the programming voltage from the Arduino.
